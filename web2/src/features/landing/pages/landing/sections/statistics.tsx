@@ -1,5 +1,5 @@
 import React from 'react';
-import { StatisticItem } from '@/types';
+import { StatisticItem } from '@/features/landing/types';
 import { Droplets, Users, Globe } from 'lucide-react';
 
 const statisticsData: StatisticItem[] = [

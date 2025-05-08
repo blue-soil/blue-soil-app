@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { NavItem } from '@/types';
+import { NavItem } from '@/features/landing/types';
 import { Heart } from 'lucide-react';
 
 const navItems: NavItem[] = [

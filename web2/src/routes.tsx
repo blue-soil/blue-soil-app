@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router";
-import LandingPage from "@/pages/landing";
+import LandingPage from "@/features/landing/pages/landing";
 
 
 

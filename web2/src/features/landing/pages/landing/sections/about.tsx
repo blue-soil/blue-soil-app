@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "@/components/ui/button";
+import Button from "@/features/landing/components/ui/button";
 
 const AboutSection: React.FC = () => {
   return (
