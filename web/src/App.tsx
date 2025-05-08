@@ -8,7 +8,6 @@ import AppShell from './features/core-app/components/layout/AppShell';
 import PublicLayout from './features/core-app/components/layout/PublicLayout';
 
 // Pages
-import Landing from './features/core-app/pages/Landing';
 import SignIn from './features/core-app/pages/auth/SignIn';
 import SignUp from './features/core-app/pages/auth/SignUp';
 import Dashboard from './features/core-app/pages/app/Dashboard';
@@ -18,6 +17,7 @@ import IoT from './features/core-app/pages/app/IoT';
 import Reports from './features/core-app/pages/app/Reports';
 import WaterQuality from './features/core-app/pages/app/WaterQuality';
 import Settings from './features/core-app/pages/app/Settings';
+import Landing from './features/core-app/pages/Landing';
 
 
 
